@@ -1,0 +1,9 @@
+[
+    { "code": "+1", "name": "United States", "flag": "🇺🇸" },
+    { "code": "+44", "name": "United Kingdom", "flag": "🇬🇧" },
+    { "code": "+91", "name": "India", "flag": "🇮🇳" },
+    { "code": "+92", "name": "Pakistan", "flag": "🇵🇰" },
+    { "code": "+61", "name": "Australia", "flag": "🇦🇺" },
+    { "code": "+81", "name": "Japan", "flag": "🇯🇵" }
+  ]
+  

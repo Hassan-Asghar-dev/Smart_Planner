@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Styles */
+body {
+  @apply bg-gray-100 text-gray-900;
+  font-family: 'Inter', sans-serif;
+}
+
+nav {
+  @apply shadow-md;
+}
+
+/* Ensure Dropdown doesn't overflow */
+.dropdown-menu {
+  @apply absolute right-0 mt-2 w-48 bg-white shadow-md rounded-md z-10;
+}
+
+.dropdown-menu a, .dropdown-menu button {
+  @apply block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100;
+}
+body {
+  background-color: lightgray;
+}
+
